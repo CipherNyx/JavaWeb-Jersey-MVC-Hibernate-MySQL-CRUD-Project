@@ -1,0 +1,74 @@
+table {
+    text-align: left;
+    position: relative;
+    border-collapse: collapse;
+    background-color: #f6f6f6;
+}/* Spacing */
+td, th {
+    border: 1px solid #999;
+    padding: 20px;
+}
+th {
+    background: brown;
+    color: white;
+    border-radius: 0;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+}
+.primary{
+    background-color: #000000
+}
+
+tfoot > tr  {
+    background: black;
+    color: white;
+}
+tbody > tr:hover {
+    background-color: #ffc107;
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: mediumslateblue;
+    cursor: pointer;
+    color: white;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: green;
+    color: white;
+}
+
+.log_out{
+    padding: 5px 10px;
+}
+
+.log_out:link, .log_out:visited{
+    border: 2px solid red;
+}
+
+.log_out:hover{
+    background-color: red;
+    border: 2px solid white;
+    color: white;
+}
