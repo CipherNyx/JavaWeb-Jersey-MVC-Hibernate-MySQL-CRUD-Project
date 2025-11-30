@@ -254,6 +254,10 @@ Feel free to fork, extend, and contribute!
 🐙 **GitHub:** [CipherNyx](https://github.com/CipherNyx)  
 📧 **Email:** sasbsuraweera@gmail.com  
 💼 **LinkedIn:** [sanjaya-suraweera](https://www.linkedin.com/in/sanjaya-suraweera/)  
+📺 **YouTube:** [SanjayaSuraweera](https://www.youtube.com/@SanjayaSuraweera)  
+📷 **Instagram:** [sanjaya_suraweera](https://www.instagram.com/sanjaya_suraweera/)  
+🎵 **TikTok:** [nits_mind](https://www.tiktok.com/@nits_mind)  
+📘 **Facebook:** [sanjaya.bandara.suraweera](https://www.facebook.com/sanjaya.bandara.suraweera/)
 
 ---
 
